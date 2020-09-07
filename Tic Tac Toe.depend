@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599392425 source:c:\users\vatsal\c++ workspace\tic tac toe\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+
